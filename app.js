@@ -21,7 +21,7 @@ const app = express();
 var client = redis.createClient ({
     host : 'eu1-equipped-sheep-32188.upstash.io',
     port : '32188',
-    password: '77aac4bc126041b8a8a4b1f0f7a0d92a'
+    password: '77aac4bc126041b8a8a4b1f0f7a0d92'
     });
 
 
